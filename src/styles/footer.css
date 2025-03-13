@@ -1,0 +1,12 @@
+.footer {
+    text-align: center;
+    padding: 1rem;
+    background: #1a1a1a;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+  }
+  
+  .footer p {
+    color: white;
+  }
+   
