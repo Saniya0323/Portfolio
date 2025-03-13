@@ -21,12 +21,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start --openssl-legacy-provider",
-    "build": " set CI=false && react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+   "start": "node build-scripts.js start",
+  "build": "node build-scripts.js build",
+  "test": "node build-scripts.js test",
+  "eject": "react-scripts eject",
+  "predeploy": "node build-scripts.js build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
