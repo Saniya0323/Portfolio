@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Saniya_Portfolio/static/css/main.75c44aab.chunk.css",
+    "main.js": "/Saniya_Portfolio/static/js/main.b3a90997.chunk.js",
+    "main.js.map": "/Saniya_Portfolio/static/js/main.b3a90997.chunk.js.map",
+    "runtime-main.js": "/Saniya_Portfolio/static/js/runtime-main.c0bcb15d.js",
+    "runtime-main.js.map": "/Saniya_Portfolio/static/js/runtime-main.c0bcb15d.js.map",
+    "static/js/2.93eedf51.chunk.js": "/Saniya_Portfolio/static/js/2.93eedf51.chunk.js",
+    "static/js/2.93eedf51.chunk.js.map": "/Saniya_Portfolio/static/js/2.93eedf51.chunk.js.map",
+    "index.html": "/Saniya_Portfolio/index.html",
+    "precache-manifest.be6fd055eff5610084cf5567e2f5915f.js": "/Saniya_Portfolio/precache-manifest.be6fd055eff5610084cf5567e2f5915f.js",
+    "service-worker.js": "/Saniya_Portfolio/service-worker.js",
+    "static/css/main.75c44aab.chunk.css.map": "/Saniya_Portfolio/static/css/main.75c44aab.chunk.css.map",
+    "static/js/2.93eedf51.chunk.js.LICENSE.txt": "/Saniya_Portfolio/static/js/2.93eedf51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0bcb15d.js",
+    "static/js/2.93eedf51.chunk.js",
+    "static/css/main.75c44aab.chunk.css",
+    "static/js/main.b3a90997.chunk.js"
+  ]
+}

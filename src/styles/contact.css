@@ -1,0 +1,42 @@
+.contact {
+  padding: 5rem 2rem;
+  text-align: center;
+
+}
+
+.contact h2 {
+  margin-top: 3rem;
+  font-size: 2.5rem;
+  color: rgb(183, 30, 30);
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  max-width: 500px;
+  margin: auto;
+  gap: 1rem;
+
+}
+
+input,
+textarea {
+  width: 100%;
+  padding: 10px;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 5px;
+}
+
+.nameip {
+  margin-top: 30px;
+}
+
+button {
+  background: rgb(117, 28, 28);
+  color: white;
+  padding: 10px;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
